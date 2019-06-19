@@ -1,0 +1,6 @@
+{
+    "name": "Heroku localstripe",
+    "description": "Run localstripe on Heroku",
+    "repository": "https://github.com/iconfinder/heroku-buildpack-localstripe",
+    "keywords": ["python", "stripe", "localstripe"]
+}

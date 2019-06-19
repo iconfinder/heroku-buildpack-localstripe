@@ -1,0 +1,1 @@
+web: localstripe --port=$PORT --from-scratch
